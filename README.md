@@ -1,2 +1,2 @@
 # smilegate
-Random scripts for a challenge @ Politecnico di Torino
+Random scripts for Motus challenge @ Politecnico di Torino
